@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+main {
+    padding: 35px;
+    width: 70vw;
+}
+
+h1 {
+    font-size: 1.7em;
+}
+
+h3 {
+    font-size: 1.1em;
+}
+
+li {
+    font-size: 1.1em;
+}
+
+img {
+    width: 160px;
+}
